@@ -1,1 +1,28 @@
-/* Write your CSS here! */
+title {
+    font-size: 45px;
+}
+
+head {font-size: 45px;
+}
+.image1 {
+    height: 500px;
+}
+.image {
+    height: 600px;
+}
+
+
+body{
+    background-color:yellowgreen;
+    margin: 8px;
+    display: block;
+
+
+}
+#mainHeading{
+    color: red;
+}
+
+.funParagraph{
+    color: green;
+}
